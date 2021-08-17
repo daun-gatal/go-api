@@ -1,4 +1,4 @@
-package main
+package main // Import main
 
 import (
 	"go-api/database"
